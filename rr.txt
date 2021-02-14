@@ -1,2 +1,0 @@
-Kullandığım Teknolojiler;
-AspNet, Mssql, Html, Css, Javascript, Bootstrap
