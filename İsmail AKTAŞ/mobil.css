@@ -1,0 +1,29 @@
+﻿@media only screen and (min-width:320px) and (max-width:480px) {
+.ktgr{
+    width:40% !important;
+}
+    .bgc {
+        background-image: url(image/asda.jpg) !important;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%
+    }
+
+}
+@media screen and (min-width:600px) and (max-width:900px),screen and (min-device-width:600px) and (max-device-width:900px) {
+    .bgc {
+        background-image: url(image/asda.jpg) !important;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%
+    } 
+}
+@media screen and (max-width:900px),screen and (max-device-width:900px) {
+
+    .bgc {
+        background-image: url(image/asda.jpg) !important;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%
+    } 
+}

@@ -1,0 +1,112 @@
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\İsmail AKTAŞ.dll.config
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\İsmail AKTAŞ.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\İsmail AKTAŞ.pdb
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csc.exe
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csc.exe.config
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csc.rsp
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csi.exe
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csi.exe.config
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csi.rsp
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.AppContext.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Collections.Immutable.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Console.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.Compression.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.FileSystem.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.Pipes.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.AccessControl.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Claims.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.ValueTuple.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Xml.XPath.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\vbc.exe
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\vbc.exe.config
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\vbc.rsp
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\VBCSCompiler.exe
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\VBCSCompiler.exe.config
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.csprojAssemblyReference.cache
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.csproj.CoreCompileInputs.cache
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.csproj.CopyComplete
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.dll
+C:\Visual Studio\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.pdb
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.csproj.CoreCompileInputs.cache
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.pdb
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\İsmail AKTAŞ.dll.config
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\İsmail AKTAŞ.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\İsmail AKTAŞ.pdb
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csc.exe
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csc.exe.config
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csc.rsp
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csi.exe
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csi.exe.config
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\csi.rsp
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.AppContext.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Console.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.Compression.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Claims.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.ValueTuple.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\vbc.exe
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\vbc.exe.config
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\vbc.rsp
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\VBCSCompiler.exe
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.csproj.CopyComplete
+C:\Users\SİNAN\Desktop\İsmail AKTAŞ\İsmail AKTAŞ\obj\Release\İsmail AKTAŞ.csprojAssemblyReference.cache

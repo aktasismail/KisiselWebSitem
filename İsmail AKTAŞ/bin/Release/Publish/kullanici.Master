@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="kullanici.master.cs" Inherits="İsmail_AKTAŞ.kullanici" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Anasayfa</title>
+    <link rel="shortcut icon" href="Favicon.png" />
+    <link rel="stylesheet" href="tasarim.css" type="text/css" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+    <style type="text/css">
+        .auto-style2 {
+            width: 73px;
+        }
+        .auto-style3 {
+            height: 30px;
+        }
+        .auto-style5 {
+            height: 100px;
+            width: 1000px;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+       <div style="margin-left: 140px; height: 50px; width: 1000px; background-color:#66b3ff; float:left;">
+           <div style="margin-left:20px; height:50px; float:left; font-size:38px; color:white;">İsmail Aktaş</div>
+           <div style="margin-right:20px; margin-top:7px; height:43px;width:200px; float: right;" >
+
+               <asp:Button ID="Button2" runat="server" Text="Giriş Yap" Height="35px" Width="85px" BackColor="#66B3FF" BorderWidth="2px" Font-Bold="False" ForeColor="White" Font-Size="13pt" Font-Strikeout="False" />
+&nbsp;
+               <asp:Button ID="Button3" runat="server" Text="Kayıt Ol" Height="35px" Width="85px" BackColor="#66B3FF" BorderWidth="2px" Font-Bold="False" ForeColor="White" Font-Size="13pt" />
+           </div>
+       </div>
+        
+        <div style="margin-left:140px; height: 235px; width:1000px; float:left;">
+            <img src="bulut2.jpg" height="235"width="1000" />
+        </div>
+        <div style="margin-left:140px; background-color: #66b3ff; " class="auto-style5"> 
+            <table style="margin:15px; float:left;">
+                <tr>
+                    <td style="width: 150px; height: 50px; font-size:25px; "><a style="color:#ffffff;" href="anasayfa.aspx">Anasayfa</a></td>
+                    <td style="width: 150px; height: 50px; font-size:25px; "><a style="color:#FFFFFF;" href="iletisim.aspx">İletişim</a></td>
+                   
+                </tr>
+            </table>
+            <div class="arama">
+                
+
+
+                <table class="auto-style3">
+                    <tr>
+                        <td class="auto-style2">&nbsp;<asp:Button ID="Button1" CssClass="btn btn-primary" runat="server" Text="Ara" Font-Size="Larger" OnClick="Button1_Click"/></td>
+                        <td>&nbsp;<asp:TextBox ID="TextBox1" runat="server" CssClass="form-control" Height="40px" Width="246px" Font-Size="15px" BackColor="White"></asp:TextBox>&nbsp;</td>
+                    </tr>
+                </table>
+                
+
+
+
+
+            </div>
+        </div>
+
+        <div style="width:1000px; margin-left: 140px; ">
+            <div style=" float:left; width: 250px; height: 700px; margin-left:0px;">
+               <div style="  width: 250px; height:345px; background-color: #4da6ff; border-radius:10px; margin-top:5px; " >
+                   <div style="height: 30px; background-color: #6699ff; border-radius: 10px;">
+                       <p style="margin:5px; font-size:20px; color:white;">Kategoriler</p>
+                   </div>  
+                    <div style="font-size:25px; margin:10px; height: 273px;">
+                       <asp:DataList ID="DataList3" runat="server" Width="250px" style="margin-bottom: 0px">
+                           <ItemTemplate>
+                               <asp:Label ID="Label2" runat="server" Text='<%# Eval("kategoriid") %>'></asp:Label>-
+                               <a href="kategorisayfa.aspx?kategoriid=<%#Eval("kategoriid") %>"><asp:Label ID="Label1" runat="server" Text='<%# Eval("kategoriad") %>'></asp:Label></a>
+                               ( <asp:Label ID="Label3" runat="server" Text='<%# Eval("kategoriadet") %>'></asp:Label>
+                               ) 
+                           </ItemTemplate>
+                       </asp:DataList>
+                       </div>
+               </div>
+               <div style="  width:250px; height:345px; background-color:#4da6ff; border-radius:10px; margin-top:5px; ">
+                   <div style="height:30px; background-color:#4da6ff; border-radius:10px;">
+                       <p style="margin:5px; font-size:20px; color:white;">Son Yazılar</p>
+                       
+                   </div>
+                   <asp:DataList ID="DataList4" runat="server">
+                       <ItemTemplate>
+                           <asp:Label ID="Label4" runat="server" Text='<%# Eval("sonyazilarid") %>'></asp:Label>
+                           <asp:Label ID="Label5" runat="server" Text='<%# Eval("sonyazilar") %>'></asp:Label>
+                       </ItemTemplate>
+                       </asp:DataList>
+               </div >
+                
+            </div>
+            <div style="background-color:#f2f2f2; margin-left:255px; height: auto; width: 745px; margin-top:5px; border-radius:10px;">
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                
+                     
+                
+            </asp:ContentPlaceHolder>
+
+            </div>
+            
+        </div>
+      
+    </form>
+    <script src="Scripts/jquery-3.0.0.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+</body>
+</html>

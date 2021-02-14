@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="İsmail_AKTAŞ.admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.0.0.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        a {
+            font-size:25px;
+        }
+        .admtxt {
+            color: #0066cc;
+            font-size: 80pt;
+            font-family: helvetica;
+            float: right;
+            margin-right: 50px;
+            margin-top: 22px;
+    }
+        .auto-style2 {
+            width: 200px;
+            height: 200px;
+            
+        }
+    </style>
+    </head>
+    <body style="background-color: #99ccff;">
+    <form id="form1" runat="server">
+    <div style="height:250px">
+    <img src="adminlogin.png" class="auto-style2"  />
+        <div style="height: 230px;  float:right;">
+		&nbsp;<div  class="admtxt">
+			<p>ADMİN</p> 
+		      </div>
+	    </div>
+    </div>
+	<div style="height: auto; ">
+        <table class="table table-primary">
+            <tr>
+
+                <td><a href="admikategori.aspx">Kategoriler</a></td>
+                <td><a href="adminsonuc.aspx">Sonuçlar</a></td>
+                <td><a>Mesajlar</a></td>
+                <td><a href="yorumlar.aspx"> Yorumlar</a></td>
+            </tr>
+        </table>
+        <div style="background-color: #0066cc;">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+	</div>
+	<div style="height: 70px; width:100%;  background-color: #3399ff; float:left;">
+		</div>
+</form>
+    </body>
+</html>

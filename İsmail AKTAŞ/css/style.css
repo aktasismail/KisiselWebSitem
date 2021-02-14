@@ -1,0 +1,276 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #f1f1f1;
+}
+
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #249bfd; /* ana üst menü rengi*/
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    border-right: 1px solid #E7E7E7;
+    height: 50px;
+
+    font-size: 28px;
+
+    font-family: Minion Pro;
+    color: #ffffff;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+
+    .menu ul li a {
+        border-right: 1px solid #E7E7E7;
+        height: 50px;
+        line-height: 50px;
+        margin: 0px;
+        padding: 0px 20px;
+        display: flex;
+        font-size: 16px;
+        letter-spacing: 1px;
+
+        font-weight: 600;
+        font-family:'Minion Pro';
+        color: #fdf6f6;
+    }
+
+        .menu ul li a:hover {
+            background-color: #E8E8E8;
+            color: #159b90;
+        }
+
+.menu {
+    margin-right: auto;
+}
+
+.search-icon:before {
+    content: '\f002';
+    font-family: fontAwesome;
+    line-height: 30px;
+    font-size: large;
+    color: white !important;
+}
+
+.search-icon.active:before {
+    content: '\f00d'; /*arama açıldıktan sonra icon*/
+    font-size: x-large;
+    color: white;
+    font-family: fontAwesome;
+}
+
+.menu ul li ul {
+    position: absolute;
+    left: 0;
+    background-color: #0988ff;
+    flex-direction: column;
+    display: none !important;
+}
+
+.menu ul li {
+    position: relative;
+}
+
+    .menu ul li ul li {
+        display: block;
+        width: 200px;
+    }
+
+        .menu ul li ul li a {
+            color: #fff7f7 !important;
+            border-bottom: 1px solid #424242;
+        }
+
+    .menu ul li.active ul {
+        display: block !important;
+    }
+
+    .menu ul li ul li a:hover {
+        background-color: #3f7beb !important;
+        color: #fffafa !important;
+    }
+
+.sub-menu:before {
+    content: '\f0d7'; /*arama açılmadan önce*/
+    font-family: fontAwesome;
+    position: absolute;
+    line-height: 50px;
+    font-size: 12px;
+    color: #fdf7f7;
+}
+/* arama arkaplan*/
+.search-box {
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    display: none;
+    padding: 0px 30px 0px 30px;
+    transition: all ease 0.5s;
+}
+
+.navigation {
+    position: relative;
+    box-shadow: 1px 1px 20px rgba(0,0,0,0.01);
+}
+
+.search-box input {
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    background: transparent; /* input rengi*/
+    color: rgb(26, 24, 24);
+    border-style: double;
+    border-color: rgb(70, 172, 255);
+    font-size: 16px;
+}
+
+.s-icon {
+    color: #117add;
+    font-size: x-large;
+}
+
+.search-box input::placeholder {
+    color: rgb(84, 86, 87);
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+.search-box.active {
+    display: flex;
+}
+
+
+
+@media(max-width:900px) {
+    .toggle:before {
+        width: 50px;
+        font-size: large; /*menü sembolü boyut*/
+        content: 'Menü';
+        font-weight: bold;
+        color: white;
+        font-family: 'Minion Pro';
+        display: none;
+    }
+
+    .logo {
+        border: none;
+    }
+
+    .menu {
+        margin-right: 0px !important;
+    }
+
+    header nav ul {
+        position: absolute;
+        width: 70%;
+        height: calc(100vh - 50px);
+        background-color: rgba(52, 159, 247, 0.822); /* liste rengi*/
+        top: 50px;
+        left: 0;
+        display: block !important;
+        overflow: hidden;
+        display: none !important;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    nav ul li a {
+        border-bottom: 1px solid #faf8f8;
+        border-right: none !important;
+        color: #ffffff !important;
+        text-decoration: none;
+    }
+
+    .toggle.active:before {
+        content: 'Geri' !important; /*kapat sembolü*/
+        font-family:'Minion Pro';
+    }
+
+    nav ul li a:hover {
+        background-color: #1d64e9 !important; /* düğme arkaplan*/
+    }
+
+    header.active-menu ul {
+        display: block !important;
+    }
+
+    .toggle:before {
+        display: block;
+    }
+
+    header.active-menu,
+    header.active-search {
+        background-color: #249bfd; /* üst menü rengi*/
+        height: 50px;
+        width: 100%;
+        color: #FFFFFF;
+    }
+
+    .search-icon.active:before {
+        color: #1d2001;
+    }
+
+
+    .menu ul li ul {
+        position: relative;
+        top: 0px;
+        height: auto;
+    }
+
+        .menu ul li ul li {
+            width: 100%;
+        }
+
+    /*header.active-menu  .logo,
+	header.active-menu  .search-icon{
+		display: none;
+		
+	}
+	header.active-search .logo,
+	header.active-search .toggle{
+		display: none;
+		
+	}*/
+
+}
